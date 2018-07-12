@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Factory News</string>
+    <string name="news_item_image">News item image</string>
+    <string name="item_test_text">Creating Remakable Poster Prints Through 4 Color Poster Printing</string>
+    <string name="news_detail_image">News detail image</string>
+    <string name="dialog_title">Error</string>
+    <string name="dialog_text">Oops, there seems to be an error.</string>
+    <string name="dialog_try_again">OK</string>
+</resources>
